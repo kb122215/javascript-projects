@@ -18,7 +18,7 @@ if (
   console.log("Fuel level above 25%. Engines good.");
 } else {
   console.log("Fuel and engine status pending...");
-}
+} 
 
 /* 5) Implement the following checks using if/else if/else statements:
 
